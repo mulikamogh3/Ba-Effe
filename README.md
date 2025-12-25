@@ -170,6 +170,17 @@ Use whatever you're comfortable with:
 
 ---
 
+## 💙 Support the Project
+
+Loving the Rangara spirit? Help us spread the word:
+
+- ⭐ Star this repo
+- 📢 Share it with fellow designers and creatives
+
+Every bit of support helps more people discover Effervescence! 🎨
+
+---
+
 ## Resources
 
 - [CONTRIBUTING.md](CONTRIBUTING.md) — Detailed guidelines
